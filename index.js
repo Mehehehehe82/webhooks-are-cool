@@ -1,1 +1,1 @@
-function(){}()
+function(){}("Hello world!")
